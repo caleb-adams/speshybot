@@ -1,0 +1,24 @@
+{
+  "name": "speshybot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caleb-adams/speshybot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caleb-adams/speshybot/issues"
+  },
+  "homepage": "https://github.com/caleb-adams/speshybot#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.0.1"
+  }
+}
